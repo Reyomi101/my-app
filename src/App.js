@@ -95,10 +95,10 @@ function App() {
               </Toolbar>
             </AppBar>
             <Typography variant="h2">
-              Welcome to MUi
+              Welcome to MUi 
             </Typography>
             <Typography variant="subtitle3" component="div">
-              Learn how to use Material Ui
+              Learn how to use Material Ui with me
             </Typography>
             <ButtonStyle/>
             <TextField
